@@ -21,8 +21,7 @@ T1574.002 – DLL Side-Loading
 T1068 – Privilege Escalation
 T1562.001 – Impair Defenses(Disable Security Tools)
 T1070 – Indicator Removal
-Sources
 
-Qilin Ransomware Uses Malicious DLL to Kill Almost Every Vendor’s EDR Solutions — Cisco Talos, April 2026
-Web Shells, Tunnels, and Ransomware: Dissecting a Warlock Attack — Trend Micro, March 16, 2026
-Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools — The Hacker News, April 6, 2026
+## Full Blog
+
+[https://medium.com/@diyatk01/how-qilin-and-warlock-ransomware-disable-300-security-tools-using-vulnerable-drivers-cbbd00c56f75]
