@@ -1,6 +1,5 @@
 # Cybersecurity-Blogs
 
-##If it’s exploitable, it’s worth understanding.
 
 This repository is a collection of my cybersecurity blogs and technical write-ups focused on **real-world attacks, threat intelligence, and SOC operations**.
 
