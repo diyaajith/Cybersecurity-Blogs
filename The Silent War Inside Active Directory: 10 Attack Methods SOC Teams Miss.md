@@ -96,7 +96,6 @@ Forged Kerberos tickets using krbtgt or service account hashes.
 - Event ID 4769 → Kerberoasting
 - Event ID 4662 → DCSync / replication abuse
 - Event ID 1644 → LDAP enumeration
-- Sysmon ID 10 → LSASS access attempts
 
 ---
 
