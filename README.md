@@ -17,5 +17,5 @@ I break down vulnerabilities, attack techniques, and active threats with a pract
 - Enterprise Security & Risk  
 
 ## Goal
-To bridge the gap between **theory and real-world security operations** — making complex threats easier to understand, detect, and defend against.
+To bridge the gap between **theory and real world security operations** — making complex threats easier to understand, detect, and defend against.
 
