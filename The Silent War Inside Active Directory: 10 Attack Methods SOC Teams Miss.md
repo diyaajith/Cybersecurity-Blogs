@@ -112,4 +112,6 @@ Forged Kerberos tickets using krbtgt or service account hashes.
 ✔ Add privileged users to Protected Users group  
 
 ---
+###  Full Blog
+[https://medium.com/@diyatk01/the-silent-war-inside-active-directory-10-attack-methods-soc-teams-miss-a7184c10f407]
 
