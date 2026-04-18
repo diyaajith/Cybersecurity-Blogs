@@ -58,4 +58,4 @@ Just trust, manipulation, and a seemingly harmless file.
 ---
 
 ###  Full Blog
-[Read the full analysis on Medium](#)
+[https://medium.com/@diyatk01/when-a-facebook-friend-request-becomes-a-cyber-trap-how-north-korean-hackers-are-using-social-1c634481d2f4]
