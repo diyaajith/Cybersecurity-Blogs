@@ -80,5 +80,4 @@ Knowledge beats fear.
 ---
 
 ### Full Blog
-
-[https://medium.com/@diyatk01/dark-web-exposed-the-shocking-truth-behind-internets-darkest-corner]
+[https://medium.com/@diyatk01/dark-web-exposed-the-shocking-truth-behind-internets-darkest-corner-9990f0365291]
