@@ -64,11 +64,5 @@ T1574.002 • T1068 • T1562.001 • T1070
 
 ---
 
-### **Key Takeaway**
-
-**Disable defenses first. Encrypt later.**
-
----
-
 ### **Full Blog**
 (https://medium.com/@diyatk01/how-qilin-and-warlock-ransomware-disable-300-security-tools-using-vulnerable-drivers-cbbd00c56f75)
