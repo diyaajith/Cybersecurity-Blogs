@@ -37,4 +37,6 @@ Instead of guessing what happens inside a network, Wireshark provides visibility
 These exercises help beginners understand how packet analysis works in real-world scenarios.
 
 ---
+Full Blog
+https://medium.com/@diyatk01/wireshark-for-beginners-learn-packet-analysis-step-by-step-812aeaa66be7
 
