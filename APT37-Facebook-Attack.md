@@ -47,15 +47,5 @@ Instead of exploiting software vulnerabilities, the attack relied on **human tru
 
 ---
 
-###  Key Takeaway
-This attack highlights a critical shift:
-
-> The entry point is no longer just vulnerable systems — it's human behavior.
-
-No zero-day exploit. No brute force.  
-Just trust, manipulation, and a seemingly harmless file.
-
----
-
 ###  Full Blog
 [https://medium.com/@diyatk01/when-a-facebook-friend-request-becomes-a-cyber-trap-how-north-korean-hackers-are-using-social-1c634481d2f4]
