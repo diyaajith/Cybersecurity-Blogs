@@ -63,4 +63,6 @@
 - Multi-host execution  
 
 ---
+###  Full Blog
+[https://medium.com/@diyatk01/abusing-trust-the-lolbins-era-cfe48fdd20ad]
 
